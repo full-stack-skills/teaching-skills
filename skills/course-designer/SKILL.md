@@ -1,5 +1,6 @@
 ---
 name: course-designer
+license: Apache-2.0
 description: Provides comprehensive guidance for course design including curriculum development, learning objectives, and course structure. Use when the user asks about course design, needs to design courses, create learning objectives, or structure educational content.
 ---
 

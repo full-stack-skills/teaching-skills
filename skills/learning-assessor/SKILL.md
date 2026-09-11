@@ -1,5 +1,6 @@
 ---
 name: learning-assessor
+license: Apache-2.0
 description: Provides comprehensive guidance for learning assessment including assessment creation, evaluation methods, and assessment best practices. Use when the user asks about learning assessment, needs to create assessments, evaluate learning, or implement assessment strategies.
 ---
 

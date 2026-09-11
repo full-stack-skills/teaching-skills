@@ -1,5 +1,6 @@
 ---
 name: teaching-resource-generator
+license: Apache-2.0
 description: Provides comprehensive guidance for generating teaching resources including courseware, exercises, case studies, and learning guides. Use when the user asks about generating teaching materials, creating courseware, designing exercises, or developing educational content.
 ---
 
