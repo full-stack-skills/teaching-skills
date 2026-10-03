@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Assessor"
+  short_description: "learning assessment including assessment creation, evaluation…"
+  default_prompt: "Use $learning-assessor to help with my current task: Provides comprehensive guidance for learning assessment including assessment creation, evaluation methods, and assessment best practices."

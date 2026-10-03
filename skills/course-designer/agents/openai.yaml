@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Designer"
+  short_description: "course design including curriculum development, learning…"
+  default_prompt: "Use $course-designer to help with my current task: Provides comprehensive guidance for course design including curriculum development, learning objectives, and course structure."

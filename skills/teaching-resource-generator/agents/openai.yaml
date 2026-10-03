@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teaching Resource Generator"
+  short_description: "generating teaching resources including courseware, exercises…"
+  default_prompt: "Use $teaching-resource-generator to help with my current task: Provides comprehensive guidance for generating teaching resources including courseware, exercises, case studies, and learning guides."
